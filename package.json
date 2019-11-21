@@ -1,0 +1,19 @@
+{
+  "name": "phaser-js-dev",
+  "version": "1.0.0",
+  "description": "Testing the Phaser.io JavaScript game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherBilg/phaser-js-dev.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopherBilg/phaser-js-dev/issues"
+  },
+  "homepage": "https://github.com/ChristopherBilg/phaser-js-dev#readme"
+}
